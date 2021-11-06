@@ -1,8 +1,8 @@
 ﻿#include <iostream>
 #include <algorithm>
-#define SIZE 100
+#define SIZE 10
 
-int main(void) {
+int b2437(void) {
 	std::ios::sync_with_stdio(false);
 	std::cin.tie(NULL);
 	std::cout.tie(NULL);
@@ -20,5 +20,6 @@ int main(void) {
 		else
 			break;
 	}
-	std::cout << sum;
+	std::cout << sum+1;
+	return 0;
 }

@@ -139,7 +139,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Baekjoon\[Baekjoon][G3]2247.cpp" />
     <ClCompile Include="Baekjoon\[Baekjoon][G3]2437.cpp" />
+    <ClCompile Include="Baekjoon\[Baekjoon][G5]14502.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

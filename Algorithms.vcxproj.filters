@@ -18,5 +18,11 @@
     <ClCompile Include="Baekjoon\[Baekjoon][G3]2437.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Baekjoon\[Baekjoon][G5]14502.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Baekjoon\[Baekjoon][G3]2247.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
